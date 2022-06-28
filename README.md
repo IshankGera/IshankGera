@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshankGera
 - 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
